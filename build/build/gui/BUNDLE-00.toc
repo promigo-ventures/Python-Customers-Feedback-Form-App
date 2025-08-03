@@ -1,0 +1,3 @@
+([('gui',
+   '/Users/apple/Documents/PycharmProjects/Customer-Feedback-Form/build/dist/gui',
+   'EXECUTABLE')],)
